@@ -151,8 +151,8 @@ The POSTIFY system consists of three main components:
 ## Mobile Application Features
 
 <div align="left">
-  <img src="https://github.com/dulanjayabhanu/Postify-Expo-Application/blob/master/documentation-assets/About_Us_Screen.webp" alt="Postify About Us Mobile Screen" height="400"/>
-  <img src="https://github.com/dulanjayabhanu/Postify-Expo-Application/blob/master/documentation-assets/Mail_Box_Device_Screen.webp" alt="Postify MailBox Device Screen" height="400"/>
+  <img src="/assets/About_Us_Screen.webp" alt="Postify About Us Mobile Screen" height="400"/>
+  <img src="/assets/Mail_Box_Device_Screen.webp" alt="Postify MailBox Device Screen" height="400"/>
 </div>
 
 - **Real-Time Notifications:**
