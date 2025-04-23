@@ -33,7 +33,6 @@ This project is built with a combination of hardware and software technologies, 
 - [How It Works](#how-it-works)
 - [Mobile Application Features](#mobile-application-features)
 - [Business Architecture](#business-architecture)
-- [Patent Notice](#patent-notice)
 
 ---
 
@@ -213,12 +212,6 @@ The POSTIFY system consists of three main components:
 ## License
 
 This project is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). See the LICENSE file for details.
-
----
-
-## Patent Notice
-
-This project is a candidate for patent registration. The ideas, designs, and implementations described here are the intellectual property of the author. Unauthorized use or reproduction of the project components is strictly prohibited.
 
 ---
 
