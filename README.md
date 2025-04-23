@@ -7,15 +7,6 @@
 <p align="center">
 Revolutionizing the way you handle mail with IoT technology.
 <br/>
-<br/>
-<a href="https://github.com/dulanjayabhanu/Postify-Rest-API"><strong>« POSTIFY RestAPI »</strong></a>&nbsp;&nbsp;
-<a href="https://github.com/dulanjayabhanu/Postify-Expo-Application"><strong>« POSTIFY Expo Application »</strong></a>
-<br/>
-<br/>
-<a href="/Postify-Mail-Box-3D-Model">View 3D Model</a>&nbsp;&nbsp;
-<a href="/Final-Testing-Video-Records">View Testing Videos</a>&nbsp;&nbsp;
-<a href="/Development-Pase-Video-Records">View Development Videos</a>&nbsp;&nbsp;
-<a href="/Postify-Mail-Box-Sticker-Pack">View Mailbox Sticker Pack</a>
 </p>
 </div>
 
